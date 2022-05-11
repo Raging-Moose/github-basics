@@ -88,3 +88,7 @@ h1 {
 	width:45%;
 	float:right;
 }
+
+.articleLeft p img {
+	max-width: 30%;
+}
