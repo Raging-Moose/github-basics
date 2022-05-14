@@ -7,8 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GitHub_Basics
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\jim\OneDrive\github\Repos\github-basics\GitHub Basics\GitHub Basics\
-=======
-build_property.ProjectDir = C:\Users\jstraka-laptop\OneDrive\github\Repos\github-basics\GitHub Basics\GitHub Basics\
->>>>>>> 1470f95e904627f3606a3ce0c5a439ebd9ba2cc6
