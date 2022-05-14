@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
-<<<<<<< HEAD
-    ""
-=======
     "",
-    "\\css",
-    "\\github-basics",
-    "\\images"
->>>>>>> 1470f95e904627f3606a3ce0c5a439ebd9ba2cc6
+    "\\GitHub Basics",
+    "\\GitHub Basics\\GitHub Basics",
+    "\\js"
   ],
+  "SelectedNode": "\\GitHub Basics\\GitHub Basics.sln",
   "PreviewInSolutionExplorer": false
 }
