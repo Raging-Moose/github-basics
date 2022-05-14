@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     ""
+=======
+    "",
+    "\\css",
+    "\\github-basics",
+    "\\images"
+>>>>>>> 1470f95e904627f3606a3ce0c5a439ebd9ba2cc6
   ],
   "PreviewInSolutionExplorer": false
 }
