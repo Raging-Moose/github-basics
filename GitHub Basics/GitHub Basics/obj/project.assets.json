@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jstraka-laptop\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jstraka-laptop\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\GitHub Basics.csproj",
+      "projectUniqueName": "C:\\Users\\jim\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\GitHub Basics.csproj",
       "projectName": "GitHub Basics",
-      "projectPath": "C:\\Users\\jstraka-laptop\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\GitHub Basics.csproj",
-      "packagesPath": "C:\\Users\\jstraka-laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jstraka-laptop\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\obj\\",
+      "projectPath": "C:\\Users\\jim\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\GitHub Basics.csproj",
+      "packagesPath": "C:\\Users\\jim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jim\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jstraka-laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
