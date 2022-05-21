@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jstraka-laptop\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\GitHub Basics.csproj",
+      "projectUniqueName": "C:\\Users\\jstraka-laptop\\Source\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\GitHub Basics.csproj",
       "projectName": "GitHub Basics",
-      "projectPath": "C:\\Users\\jstraka-laptop\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\GitHub Basics.csproj",
+      "projectPath": "C:\\Users\\jstraka-laptop\\Source\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\GitHub Basics.csproj",
       "packagesPath": "C:\\Users\\jstraka-laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jstraka-laptop\\OneDrive\\github\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\obj\\",
+      "outputPath": "C:\\Users\\jstraka-laptop\\Source\\Repos\\github-basics\\GitHub Basics\\GitHub Basics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
