@@ -3,12 +3,8 @@ build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
-build_property.PublishSingleFile = 
-build_property.IncludeAllContentForSelfExtract = 
-build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GitHub_Basics
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\jim\Source\Repos\Raging-Moose\github-basics\GitHub Basics\GitHub Basics\
-=======
-build_property.ProjectDir = C:\Users\jstraka-laptop\Source\Repos\github-basics\GitHub Basics\GitHub Basics\
->>>>>>> 5a39ba727940a542d9630be3ac72a041f78395f5
