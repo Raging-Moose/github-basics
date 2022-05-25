@@ -6,5 +6,6 @@
 # User-Specific Files
 *.suo
 *.sqlite
+*.cs
 net6.0
 net6.0/
