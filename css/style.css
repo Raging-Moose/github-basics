@@ -134,3 +134,17 @@ h1 {
     text-align:center;
     color:white;
 }
+
+@media (max-width: 1290px) {
+    .articleLeft {
+        float: none;
+        width: 90%;
+        padding-left: 15px;
+    }
+    .articleRight {
+        float:none;
+        width: 90%;
+        padding-left: 15px;
+        margin-top: 25px;
+    }
+}
